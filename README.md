@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on SOAR
+- 🌱 I’m currently learning cyber security
+
+[![you8023's GitHub stats](https://github-readme-stats.vercel.app/api?username=you8023)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **you8023/you8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
