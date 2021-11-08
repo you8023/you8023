@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning cyber security
 - 💪(ง •_•)ง💪
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=you8023)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=you8023&title=Stars,Repositories,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![you8023's GitHub stats](https://github-readme-stats.vercel.app/api?username=you8023)](https://github.com/anuraghazra/github-readme-stats)
 
